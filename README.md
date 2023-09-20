@@ -17,3 +17,12 @@ O aplicativo que tem como finalidade salvar a vida constantemente ameaçada nas 
 
 ## Modelo de Negócios Canvas
 ![image](https://github.com/IgorDMoro/S.O.S_Ecossystem/assets/140767577/f54c2be3-0d42-4c35-82e7-0130b53f1e1e)
+
+## PITCH
+![image](https://github.com/IgorDMoro/S.O.S_Ecossystem/assets/140767577/103b85cb-26a8-4821-aae6-a5671b9ba0db)
+![image](https://github.com/IgorDMoro/S.O.S_Ecossystem/assets/140767577/066f4140-016a-450b-9e4f-d69b1da2bef6)
+![image](https://github.com/IgorDMoro/S.O.S_Ecossystem/assets/140767577/9bc68118-42f6-48ce-b0e5-2deb98fb3119)
+![image](https://github.com/IgorDMoro/S.O.S_Ecossystem/assets/140767577/15325141-c77c-4134-95de-80a2cab57acd)
+![image](https://github.com/IgorDMoro/S.O.S_Ecossystem/assets/140767577/ca549727-bfba-4dc8-9250-fcf48d05fef5)
+![image](https://github.com/IgorDMoro/S.O.S_Ecossystem/assets/140767577/0d598735-c873-4074-8000-1012b16fdae8)
+![image](https://github.com/IgorDMoro/S.O.S_Ecossystem/assets/140767577/520c4d70-d602-4b40-888e-f9420e061d42)
