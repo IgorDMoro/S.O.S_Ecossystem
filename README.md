@@ -1,2 +1,2 @@
 # S.O.S Ecossystem
-O aplicativo que tem como finalidade salvar a vida constantemente ameaçada nas Florestas.
+O S.O.S Ecossystem é uma iniciativa inovadora que visa proteger e preservar a rica biodiversidade do Brasil. Nosso site/aplicativo foi criado com o objetivo de monitorar ativamente a fauna e flora do país, identificando ameaças como caça ilegal, desmatamento e outras atividades prejudiciais ao meio ambiente. Nossa missão é promover a conscientização e a ação em prol da conservação ambiental, envolvendo ativamente o público em nossa causa.
