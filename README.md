@@ -1,3 +1,3 @@
 # S.O.S Ecossystem
 O S.O.S Ecossystem é uma iniciativa inovadora que visa proteger e preservar a rica biodiversidade do Brasil. Nosso site/aplicativo foi criado com o objetivo de monitorar ativamente a fauna e flora do país, identificando ameaças como caça ilegal, desmatamento e outras atividades prejudiciais ao meio ambiente. Nossa missão é promover a conscientização e a ação em prol da conservação ambiental, envolvendo ativamente o público em nossa causa.
-Para melhor entendimento do projeto, é fundamental uma 'wiki' de projeto, pois ela servirá de base para documentação, entre outras coisas: https://github.com/IgorDMoro/S.O.S_Ecossystem/wiki
+### Para melhor entendimento do projeto, é fundamental uma 'wiki' de projeto, pois ela servirá de base para documentação, entre outras coisas: [https://github.com/IgorDMoro/S.O.S_Ecossystem/wiki](https://github.com/IgorDMoro/S.O.S_Ecossystem/wiki/P%C3%A1gina-Inicial)
